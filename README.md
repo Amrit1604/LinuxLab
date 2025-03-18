@@ -1,1 +1,3 @@
-# LinuxLab1
+Amrit Joshi 
+2310991604
+G-18
